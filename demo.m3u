@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 group-title="Démo - Test",Apple BipBop (flux de test)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 group-title="Démo - Test",Apple BipBop 16:9 (flux de test)
+https://devstreaming-cdn.apple.com/videos/streaming/examples/bipbop_16x9/bipbop_16x9_variant.m3u8
+#EXTINF:-1 group-title="Démo - Cinéma libre",Tears of Steel (Blender Foundation, CC-BY)
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 group-title="Démo - Test",Mux test stream
+https://test-streams.mux.dev/test_001/stream.m3u8
