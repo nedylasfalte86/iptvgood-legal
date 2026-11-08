@@ -1,9 +1,11 @@
 #EXTM3U
-#EXTINF:-1 group-title="Démo - Cinéma libre",Big Buck Bunny (Blender Foundation, CC-BY)
+#EXTINF:-1 tvg-logo="https://nedylasfalte86.github.io/iptvgood-legal/logos/bbb.png" group-title="Cinéma libre",Big Buck Bunny
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
-#EXTINF:-1 group-title="Démo - Cinéma libre",Big Buck Bunny (version Longtail, CC-BY)
+#EXTINF:-1 tvg-logo="https://nedylasfalte86.github.io/iptvgood-legal/logos/cinema.png" group-title="Cinéma libre",Big Buck Bunny HD
 https://playertest.longtailvideo.com/adaptive/bbbfull/bbbfull.m3u8
-#EXTINF:-1 group-title="Démo - Test",Apple BipBop (flux de test)
+#EXTINF:-1 tvg-logo="https://nedylasfalte86.github.io/iptvgood-legal/logos/tears.png" group-title="Cinéma libre",Tears of Steel
+https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8
+#EXTINF:-1 tvg-logo="https://nedylasfalte86.github.io/iptvgood-legal/logos/test.png" group-title="Test vidéo",Apple BipBop
 https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
-#EXTINF:-1 group-title="Démo - Test",Apple Dolby Vision et Atmos (flux de test)
+#EXTINF:-1 tvg-logo="https://nedylasfalte86.github.io/iptvgood-legal/logos/nature.png" group-title="Test vidéo",Apple Dolby Vision et Atmos
 https://devstreaming-cdn.apple.com/videos/streaming/examples/adv_dv_atmos/main.m3u8
